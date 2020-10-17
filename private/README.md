@@ -1,6 +1,6 @@
-# private
+# Private Zone
 
-_Not much to see here, move along._
+_Nothing to see here, move along._
 
 This space is reserved for challenge solutions that I have chosen to not
 publish, usually at the request of the challenge author.  As such, you won't
